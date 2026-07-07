@@ -1,0 +1,5 @@
+"customer_segment","total_customers","average_orders","average_total_spent","segment_revenue"
+"One-time or low-value customer",86661,1.00,126.23,10939089.54
+"High-value one-time customer",3896,1.00,928.26,3616496.75
+"Repeat customer",2780,2.10,298.98,831177.50
+"High-value repeat customer",21,4.05,1571.90,33009.96

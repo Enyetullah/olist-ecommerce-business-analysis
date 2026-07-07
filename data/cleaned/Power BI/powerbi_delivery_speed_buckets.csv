@@ -1,0 +1,6 @@
+"delivery_speed_bucket","total_orders","average_delivery_days","average_review_score","late_delivery_rate_percentage"
+"0-3 days",8536,2.77,4.46,0.64
+"4-7 days",24951,6.16,4.39,0.95
+"8-14 days",36219,11.09,4.29,1.48
+"15-30 days",22109,20.32,3.91,15.72
+"More than 30 days",4009,42.70,2.18,83.79

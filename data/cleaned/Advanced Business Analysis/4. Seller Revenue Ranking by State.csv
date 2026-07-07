@@ -1,0 +1,88 @@
+"seller_state","seller_id","seller_city","total_revenue","total_orders","seller_rank"
+"AM","327b89b872c14d1c0be7235ef4871685","manaus",1258.80,3,1
+"BA","53243585a1d6dc2643021fd1853d8905","lauro de freitas",230797.02,348,1
+"BA","c72de06d72748d1a0dfb2125be43ba63","guanambi",18733.18,21,2
+"BA","75d34ebb1bd0bd7dde40dd507b8169c3","salvador",13969.77,57,3
+"BA","d03698c2efd04a549382afa6623e27fb","ilheus",9644.62,18,4
+"BA","4aba391bc3b88717ce08eb11e44937b2","arraial d'ajuda (porto seguro)",8047.44,27,5
+"CE","bbf9ad41dca6603e614efcdad7aab8c4","fortaleza",8622.26,14,1
+"CE","dbdd0ec73a4817971d962698f2fea022","fortaleza",8174.80,16,2
+"CE","8d79c8a04e42d722a75097ce5cbcf2ef","caucaia",3347.25,26,3
+"CE","c4fabeea6e569d42d02993bb1f4f1cbc","fortaleza",1136.52,11,4
+"CE","21c62b998a043ebe31161d38f84929fc","fortaleza",841.33,4,5
+"DF","44073f8b7e41514de3b7815dd0237f4f","brasilia",21519.49,142,1
+"DF","f3b80352b986ab4d1057a4b724be19d0","brasilia",11941.36,86,2
+"DF","5656537e588803a555b8eb41f07a944b","brasilia",11255.55,171,3
+"DF","3c487ae8f8d7542beff5788e2e0aea83","gama",10105.35,30,4
+"DF","bd0389da23d89b726abf911cccc54596","brasilia",9128.47,87,5
+"ES","001cca7ae9ae17fb1caed9dfb1094831","cariacica",33142.90,195,1
+"ES","33dd941c27854f7625b968cc6195a552","vila velha",7168.41,5,2
+"ES","15aac934c58d886785ac1b17953ea898","muqui",5019.60,25,3
+"ES","406740ee611378a662d274c7d8c43c4a","vitoria",1972.08,8,4
+"ES","dd4d95ba2d15c071e6c695e2ef6ce169","cachoeiro de itapemirim",1962.41,4,5
+"GO","9d5a9018aee56acb367ba9c3f05d1d6a","aparecida de goiania",11791.39,66,1
+"GO","750303a20e9c56b2a6bc45cdce0b897d","goiania",9164.82,53,2
+"GO","b410bdd36d5db7a65dcd42b7ead933b8","goiania",8319.71,42,3
+"GO","376a891762bbdecbc02b4b6adec3fdda","goiania",7693.63,57,4
+"GO","ee27a8f15b1dded4d213a468ba4eb391","goiania",6726.66,1,5
+"MA","06a2c3af7b3aee5d69171b0e14f0ee87","sao luis",48169.50,389,1
+"MG","a1043bafd471dff536d0c462352beb48","ilicinea",130412.74,702,1
+"MG","25c5c91f63607446a97b143d2d535d31","itauna",61154.70,156,2
+"MG","7299e27ed73d2ad986de7f7c77d919fa","araguari",40911.93,335,3
+"MG","dbc22125167c298ef99da25668e1011f","borda da mata",40616.55,394,4
+"MG","1554a68530182680ad5c8b042c3ab563","monte siao",35714.56,246,5
+"MS","b1fecf4da1fa2689bccffa0121953643","campo grande",4066.72,19,1
+"MS","9c068d10aca38e85c50202e17b4a7e88","coxim",3108.83,17,2
+"MS","7df1fc11cc5cbc518b39faa60cf5d67c","campo grande",1171.96,5,3
+"MS","515d781150feed28a6ac091bb0e3cb8c","campo grande",1154.72,6,4
+"MS","7d484ca289afaac6bf5fc6a1e96d2226","campo grande",248.42,2,5
+"MT","2dee2ce60de9709b1a24083217181a1f","sinop",9844.56,54,1
+"MT","abcd2cb37d46c2c8fb1bf071c859fc5b","cuiaba",6121.84,44,2
+"MT","99002261c568a84cce14d43fcffb43ea","cuiaba",5188.33,36,3
+"MT","1e9d5a33694bddb76316fd1f54734d20","jaciara",468.94,2,4
+"PA","67225bff54a172ff67579aaf583efd78","marechal candido rondon",1393.11,8,1
+"PB","a6bd7d1ccdac48c6b33b28596b7eb122","mamanguape",14306.91,15,1
+"PB","07017df32dc5f2f1d2801e579548d620","joao pessoa",1128.24,8,2
+"PB","d0d70d21e2234dd7cd3cf63fe414148a","sao bento",964.99,8,3
+"PB","fd435faa3c0422b60440ea3480d0e77c","joao pessoa",882.87,1,4
+"PB","24c1de8d9551c0b4fbc53317d53efda8","serra redonda",412.12,1,5
+"PE","de722cd6dad950a92b7d4f82673f8833","recife",64776.59,337,1
+"PE","40db9e9aa57f7bb151bcda6b0f9bdbb7","recife",23823.99,12,2
+"PE","e49c26c3edfa46d227d5121a6b6e4d37","brejao",4765.66,34,3
+"PE","1d0997ff06b524ce9289ffd75114ecd3","recife",3873.57,3,4
+"PE","78744a20ee2f80ba64f6804c25def2b8","recife",3068.85,6,5
+"PI","47efca563408aae19bb7206c2d969ea9","teresina",2791.55,11,1
+"PR","ccc4bbb5f32a6ab2b7066a4130f114e3","curitiba",78101.34,184,1
+"PR","522620dcb18a6b31cd7bdf73665113a9","cascavel",61273.66,172,2
+"PR","77530e9772f57a62c906e1c21538ab82","curitiba",53951.31,312,3
+"PR","c3cfdc648177fdbbbb35635a37472c53","curitiba",49127.81,278,4
+"PR","0241d4d5d36f10f80c644447315af0bd","curitiba",38251.61,238,5
+"RJ","46dc3b2cc0980fb8ec44634e21d2718e","rio de janeiro",134162.88,503,1
+"RJ","620c87c171fb2a6dd6e8bb4dec959fc6","petropolis",126278.18,722,2
+"RJ","edb1ef5e36e0c8cd84eb3c9b003e486d","teresopolis",83031.14,165,3
+"RJ","e882b2a25a10b9c057cc49695f222c19","teresopolis",53913.76,57,4
+"RJ","2bf6a2c1e71bbd29a4ad64e6d3c3629f","nova friburgo",51629.49,30,5
+"RN","02d35243ea2e497335cd0f076b45675d","natal",6399.95,14,1
+"RN","52562a9f449c3dc3d53f5f5b9ed74903","parnamirim",3710.64,14,2
+"RN","41c2bad7229b0c25e6becf179ebf63ff","natal",971.92,20,3
+"RN","eaaa46e98c9e61f6764dd1d7a2ab8b3e","messias targino",125.64,1,4
+"RN","392f7f2c797e4dc077e4311bde2ab8ce","rio de janeiro",88.56,2,5
+"RO","3364a91ec4d56c98e44174de954b94f6","porto velho",3853.85,6,1
+"RO","a5259c149128e82c9d6d46e0c1c812bb","ji parana",1621.13,8,2
+"RS","87142160b41353c4e5fca2360caf6f92","porto alegre",38314.31,305,1
+"RS","12b9676b00f60f3b700e83af21824c0e","montenegro",29901.67,133,2
+"RS","b32be1695eb7ec5f10f72d9610a12527","caxias do sul",29512.68,44,3
+"RS","612170e34b97004b3ba37eae81836b4c","novo hamburgo",25372.08,107,4
+"RS","06e5eefc71ec47ae763c5c6f8db7064f","porto alegre",23800.32,90,5
+"SC","04308b1ee57b6625f47df1d56f00eedf","bombinhas",61940.62,92,1
+"SC","eeb6de78f79159600292e314a77cbd18","lages",46506.89,82,2
+"SC","712e6ed8aa4aa1fa65dab41fed5737e4","videira",46149.82,77,3
+"SC","7178f9f4dd81dcef02f62acdf8151e01","videira",41180.44,202,4
+"SC","a3a38f4affed601eb87a97788c949667","joinville",31479.28,251,5
+"SE","4b39558c138930b9e5489c93b6df5fe3","aracaju",1229.10,4,1
+"SE","c53bcd3be457a342a97e39e5a9f0be22","neopolis",695.59,5,2
+"SP","4869f7a5dfa277a7dca6462dcf3b52b2","guariba",247007.06,1124,1
+"SP","7c67e1448b00f6e969d365cea6b010ab","itaquaquecetuba",237806.69,973,2
+"SP","4a3ca9315b744ce9f8e9374361493884","ibitinga",231220.43,1772,3
+"SP","fa1c13f2614d7b5c4749cbc52fecda94","sumare",200833.50,578,4
+"SP","da8622b14eb17ae2831f4ac5b9dab84a","piracicaba",184706.78,1311,5
