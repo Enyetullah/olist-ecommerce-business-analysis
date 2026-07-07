@@ -1,0 +1,14 @@
+# Raw and cleaned data files
+data/raw/
+data/cleaned/
+dashboard/data/
+
+# Power BI files can be large
+*.pbix
+
+# Python notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
