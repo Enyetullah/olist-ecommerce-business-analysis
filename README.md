@@ -100,13 +100,13 @@ This page summarizes total revenue, total orders, unique customers, average orde
 
 This page analyzes top product categories, top sellers, customer states, customer segments, category performance, and seller performance.
 
-![Product and Customer Analysis](dashboard/Screenshot/Product & Customer Analysis.png)
+![Product and Customer Analysis](dashboard/Screenshot/product_customer_analysis.png)
 
 ### 3. Delivery & Satisfaction
 
 This page analyzes late delivery rate, average delivery days, review score by delivery status, delivery speed buckets, late delivery by state, delivery time by category, and customer satisfaction trends.
 
-![Delivery and Satisfaction](dashboard/Screenshot/Delivery & Satisfaction.png)
+![Delivery and Satisfaction](dashboard/Screenshot/delivery_satisfaction.png)
 
 ## Key Insights
 
