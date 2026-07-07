@@ -94,19 +94,19 @@ The Power BI dashboard contains three pages:
 
 This page summarizes total revenue, total orders, unique customers, average order value, average review score, late delivery rate, monthly revenue trend, product category revenue, customer state revenue, payment type breakdown, and review score distribution.
 
-![Executive Overview](dashboard/screenshots/executive_overview.png)
+![Executive Overview](dashboard/Screenshot/executive_overview.png)
 
 ### 2. Product & Customer Analysis
 
 This page analyzes top product categories, top sellers, customer states, customer segments, category performance, and seller performance.
 
-![Product and Customer Analysis](dashboard/screenshots/product_customer_analysis.png)
+![Product and Customer Analysis](dashboard/Screenshot/product_customer_analysis.png)
 
 ### 3. Delivery & Satisfaction
 
 This page analyzes late delivery rate, average delivery days, review score by delivery status, delivery speed buckets, late delivery by state, delivery time by category, and customer satisfaction trends.
 
-![Delivery and Satisfaction](dashboard/screenshots/delivery_satisfaction.png)
+![Delivery and Satisfaction](dashboard/Screenshot/delivery_satisfaction.png)
 
 ## Key Insights
 
